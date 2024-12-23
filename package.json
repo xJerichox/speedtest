@@ -1,0 +1,13 @@
+{
+  "name": "internet-speed-test",
+  "version": "1.0.0",
+  "description": "A simple internet speed test application using Node.js and speedtest-net",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "speedtest-net": "^2.1.1"
+  }
+}
